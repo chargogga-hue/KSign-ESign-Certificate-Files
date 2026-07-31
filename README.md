@@ -2,3 +2,4 @@
 
 All Ksign Esign Certificate, it contains .zip file, ksign file, esigncert file, ksigncert file.
 Credit To Khoindvn And Loyah.dev And Nexcert And Applejr And Applep12 For The Certificates.
+Currently Working Certificate: None
